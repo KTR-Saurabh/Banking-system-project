@@ -40,7 +40,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
     ```
 2. Clone the repository:
     ```bash
-   https://github.com/KTR-Saurabh/Banking-system-project.git
+   https://github.com/KTR-Saurabh/Masai-Project.git
     ```
 3. Navigate to the project directory:
     ```bash
@@ -97,9 +97,3 @@ We welcome contributions to enhance the features and improve the system. Feel fr
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any queries or issues, please reach out to us through our social media channels:
-
-Thank you for using the Bank Management System! We hope it helps you manage your bank accounts effectively.
